@@ -1,0 +1,22 @@
+
+.container{
+    display: flex; flex-direction: column;
+    background-color: antiquewhite;
+}
+
+.val{
+    border: 1px solid grey; font-family: sans-serif;
+    padding: 1%; font-size: larger; color: cornflowerblue; background-color: white;
+}
+#page{
+     color: rebeccapurple;
+    background-color: antiquewhite; font-family: monospace; font-size: small; 
+    font-weight: bold;
+}
+#change{
+    margin-bottom: 1%;
+    color: black; font-family: sans-serif;
+}
+a:hover{
+    background-color: #347AB4; cursor: pointer;
+}
